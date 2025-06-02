@@ -9,7 +9,7 @@ En este documento incluiré estas etiquetas:
 - ol
 - li
 
-Para ver este proyecto tienes que clonar el repositorio completo
+Para ver este proyecto tienes que [acceder aqui](https://andresrafita.github.io/devf_html/)
 
 ## Autor
 
