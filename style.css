@@ -1,0 +1,55 @@
+h2 {
+  color: darkblue;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+li {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin-bottom: 16px;
+}
+
+div {
+  background-color: lightgray;
+}
+
+header {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+header section h2 {
+  background-color: lightblue;
+  color: darkblue;
+  font-size: 24px;
+  margin-bottom: 12px;
+}
+
+.banners {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+#id {
+  background-color: lightblue;
+  padding: 20px;
+  text-align: center;
+}
+
+* {
+  font-family: 'Courier New', Courier, monospace;
+}
+
+
+
+
+
+
